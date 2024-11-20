@@ -1,8 +1,8 @@
-# 💫 Hi there, I'm Abhinaya!:
+# 💫 Hi there, I'm Abhinaya!
 👩🏻‍🎓 Undergraduate Computer Science student at the University of Texas at San Antonio<br>✨ Passionate about merging technology with creative problem-solving and design<br>🌐 Exploring innovative web development and design techniques<br>💭 Currently learning more about data structures and mathematical foundations
 
 
-## 🌐 Socials:
+## 🔗 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinaya-guduru) 
 
 # 💻 Tech Stack:
